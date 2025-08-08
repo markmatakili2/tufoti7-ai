@@ -1,0 +1,22 @@
+{
+  "name": "tufoti7-ai-website",
+  "version": "1.0.0",
+  "description": "Tufoti7 AI - Business Automation Solutions Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000",
+    "dev": "npx http-server . -p 3000 -o"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "chatbot",
+    "whatsapp",
+    "business"
+  ],
+  "author": "Tufoti7 AI",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
